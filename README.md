@@ -10,7 +10,8 @@
 
 ## Flowchart
 
-<img src="https://github.com/Mahfuz311/labpy07/blob/main/labpy07/flowchart.png">
+![image](https://github.com/user-attachments/assets/a63b45ef-37ca-49bd-8a79-e42ed2b1dcfb)
+
 
 ## Fitur
  
@@ -31,16 +32,17 @@
 ## Contoh Penggunaan
 ```
 mahasiswa = Mahasiswa()
-mahasiswa.tambah("Udin Stark")
-mahasiswa.tambah("Praroro Julianto")
+mahasiswa.tambah("jarwo kuat")
+mahasiswa.tambah("ryan si bolang")
 mahasiswa.tampilkan()
-mahasiswa.hapus("Praroro Julianto")
-mahasiswa.ubah("Udin Stark", "Suneo Junaedi")
+mahasiswa.hapus("ryan si bolang")
+mahasiswa.ubah("jarwo kuat", "jawir")
 mahasiswa.tampilkan()
 ```
 ## Contoh Output
 
-<img src="https://github.com/Mahfuz311/labpy07/blob/main/labpy07/output.png">
+![image](https://github.com/user-attachments/assets/b59cf42f-47b6-4847-9726-62a729704665)
+
 
 ```
 Program ini memungkinkan untuk menambah, menampilkan, mengubah, dan menghapus data mahasiswa berdasarkan nama, sesuai dengan ketentuan yang diminta.
